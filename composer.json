@@ -1,0 +1,20 @@
+{
+  "name": "wunderio/grumphp-advanced-ecs",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Guntis Jakovins",
+      "email": "guntis.jakovins@wuner.io"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Wunderio\\ECS\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.6",
+    "phpro/grumphp": "*"
+  }
+}
