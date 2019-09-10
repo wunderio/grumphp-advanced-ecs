@@ -1,5 +1,5 @@
 <?php
-namespace Wunderio\ECS\Task;
+namespace Wunderio\ECS;
 
 use GrumPHP\Extension\ExtensionInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

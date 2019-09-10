@@ -13,7 +13,7 @@ parameters:
           clear-cache: false
           no-progress-bar: true
     extensions:
-        - Wunderio\ECS\Task\ExtensionLoader
+        - Wunderio\ECS\ExtensionLoader
 ````
 
 ### Composer
